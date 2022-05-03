@@ -7,7 +7,7 @@ There is a paper explaining what this project is,
   instructions on how to contribute your own room to the game.
 What do you do?
 ```
-[`>>> look project explanation`](#)
+[`>>> look project explanation`](project_explanation.md)
 
 [`>>> look how to play`](#)
 
